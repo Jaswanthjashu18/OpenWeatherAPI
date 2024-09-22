@@ -1,6 +1,8 @@
 -- Weather App 
 
-A simple web application that provides weather information based on user input. The app interacts with the OpenWeather API to fetch current weather data for various cities.
+A web application that provides weather information based on user input. 
+
+The app interacts with the OpenWeather API to fetch weather data for various cities in India.
 
 
 --Features
@@ -14,7 +16,7 @@ A simple web application that provides weather information based on user input. 
 
 -Frontend: React.js
 -Backend: Node.js, Express.js
--CSS: Custom styles for a visually appealing design
+-CSS: Styling
 
 --Setup Instructions
 
